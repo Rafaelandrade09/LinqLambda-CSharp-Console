@@ -1,0 +1,14 @@
+C:\Users\rafae\source\repos\_17ProjLinqLambda\_17ProjLinqLambda\bin\Debug\netcoreapp3.1\_17ProjLinqLambda.exe
+C:\Users\rafae\source\repos\_17ProjLinqLambda\_17ProjLinqLambda\bin\Debug\netcoreapp3.1\_17ProjLinqLambda.deps.json
+C:\Users\rafae\source\repos\_17ProjLinqLambda\_17ProjLinqLambda\bin\Debug\netcoreapp3.1\_17ProjLinqLambda.runtimeconfig.json
+C:\Users\rafae\source\repos\_17ProjLinqLambda\_17ProjLinqLambda\bin\Debug\netcoreapp3.1\_17ProjLinqLambda.runtimeconfig.dev.json
+C:\Users\rafae\source\repos\_17ProjLinqLambda\_17ProjLinqLambda\bin\Debug\netcoreapp3.1\_17ProjLinqLambda.dll
+C:\Users\rafae\source\repos\_17ProjLinqLambda\_17ProjLinqLambda\bin\Debug\netcoreapp3.1\_17ProjLinqLambda.pdb
+C:\Users\rafae\source\repos\_17ProjLinqLambda\_17ProjLinqLambda\obj\Debug\netcoreapp3.1\_17ProjLinqLambda.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\_17ProjLinqLambda\_17ProjLinqLambda\obj\Debug\netcoreapp3.1\_17ProjLinqLambda.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\_17ProjLinqLambda\_17ProjLinqLambda\obj\Debug\netcoreapp3.1\_17ProjLinqLambda.AssemblyInfo.cs
+C:\Users\rafae\source\repos\_17ProjLinqLambda\_17ProjLinqLambda\obj\Debug\netcoreapp3.1\_17ProjLinqLambda.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\_17ProjLinqLambda\_17ProjLinqLambda\obj\Debug\netcoreapp3.1\_17ProjLinqLambda.dll
+C:\Users\rafae\source\repos\_17ProjLinqLambda\_17ProjLinqLambda\obj\Debug\netcoreapp3.1\_17ProjLinqLambda.pdb
+C:\Users\rafae\source\repos\_17ProjLinqLambda\_17ProjLinqLambda\obj\Debug\netcoreapp3.1\_17ProjLinqLambda.genruntimeconfig.cache
+C:\Users\rafae\source\repos\_17ProjLinqLambda\_17ProjLinqLambda\obj\Debug\netcoreapp3.1\_17ProjLinqLambda.GeneratedMSBuildEditorConfig.editorconfig
